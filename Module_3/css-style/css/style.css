@@ -1,0 +1,37 @@
+@import header.css
+@import veriable.css
+@import media.css
+@import normalize.css
+
+
+h1 {
+    color: green;
+    font-size: 36px;
+}
+
+p {
+    color: yellow;
+    font-size: 16px;
+}
+
+a {
+    color: red;
+    font-size: 8px;
+}
+
+.box {
+    background-color: blue;
+}
+
+.box1 {
+    background-color: black;
+}
+
+/*.box2 p {*/
+    /*color: white;*/
+    /*font-size: 50px;*/
+/*}*/
+
+#p-box2 {
+    color: violet !important;
+}
