@@ -19,7 +19,7 @@
 }
 
 .gallery-item:hover {
-    transform: scale(1.1, 1.1) rotate(15deg);
+    transform: scale(2, 2) rotate(5deg);
 }
 
 .gallery-item:last-child {
